@@ -1,0 +1,23 @@
+# Dart package files
+.packages
+.pub/
+build/
+.dart_tool/
+
+# VS Code files
+.vscode/
+
+# Generated files
+*.log
+*.lock
+*.pyc
+*.pyo
+*.swp
+*.swo
+*.DS_Store
+
+# Coverage files
+coverage/
+
+# History files
+.history/
